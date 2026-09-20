@@ -1,4 +1,4 @@
-# 💻 Portfólio — Ester Lima
+# Portfólio — Ester Lima
 
 ## Sobre o Projeto
 
@@ -10,7 +10,7 @@ Atualmente, sou graduanda em Análise e Desenvolvimento de Sistemas e técnica e
 
 ---
 
-## 🖥️ Telas Desenvolvidas
+## Telas Desenvolvidas
 
 ### Página Inicial
 
@@ -52,62 +52,3 @@ A seção de contato disponibiliza meus principais meios de comunicação e um f
 
 ---
 
-## 🎨 Figma
-
-O design e a estrutura visual do portfólio foram desenvolvidos no Figma.
-
-🔗 **[Acessar o projeto no Figma](COLE_AQUI_O_LINK_DO_FIGMA)**
-
----
-
-## 💡 Ideação
-
-A ideia do projeto surgiu da necessidade de criar um espaço profissional para apresentar minha trajetória, habilidades e projetos na área de tecnologia.
-
-O desenvolvimento foi pensado para proporcionar uma experiência simples e intuitiva, utilizando uma identidade visual moderna e elementos que destacam as informações mais importantes do meu perfil.
-
----
-
-## 📝 Esqueleto do Protótipo
-
-Antes do desenvolvimento da interface final, foi estruturada a organização das principais seções do portfólio, definindo a disposição das informações e a navegação entre os conteúdos.
-
-As principais seções planejadas foram:
-
-- Início
-- Sobre Mim
-- Habilidades
-- Projetos
-- Contato
-
----
-
-## 🚀 Protótipo Funcional
-
-O protótipo funcional apresenta a versão navegável do portfólio, permitindo visualizar a estrutura das páginas, a organização das informações e a interação com os principais elementos da interface.
-
-🔗 **[Acessar o Protótipo](COLE_AQUI_O_LINK_DO_PROTOTIPO)**
-
----
-
-## 🛠️ Tecnologias
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Figma
-
----
-
-## 👩‍💻 Desenvolvedora
-
-**Ester Lima**
-
-🎓 Análise e Desenvolvimento de Sistemas  
-💻 Técnica em Informática pelo IFMA  
-📍 São Luís — MA
-
-📧 **E-mail:** estersantoslima884@gmail.com  
-🔗 **GitHub:** [github.com/esterlima](https://github.com/esterlima)  
-🔗 **LinkedIn:** [linkedin.com/in/esterlima](https://linkedin.com/in/esterlima)
