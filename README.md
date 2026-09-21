@@ -1,4 +1,4 @@
-## 🖥️ Telas Desenvolvidas
+## Telas Desenvolvidas
 
 ### Página Inicial
 
