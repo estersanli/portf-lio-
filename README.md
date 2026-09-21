@@ -16,7 +16,7 @@ Atualmente, sou graduanda em Análise e Desenvolvimento de Sistemas e técnica e
 
 A página inicial apresenta uma breve introdução sobre mim, minha área de atuação e uma chamada para conhecer meus projetos ou entrar em contato.
 
-![Página Inicial](Captura de tela 2026-09-20 190259.png)
+![Página Inicial](fotos/Captura de tela 2026-09-20 190259.png)
 
 ---
 
