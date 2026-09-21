@@ -4,10 +4,6 @@
 
 Este projeto consiste no desenvolvimento do meu portfólio profissional, criado para apresentar minha trajetória na área de tecnologia, minhas habilidades, projetos e formas de contato.
 
-O portfólio foi desenvolvido com uma identidade visual moderna e profissional, buscando organizar minhas informações de forma clara e proporcionar uma boa experiência de navegação.
-
-Sou graduanda em Análise e Desenvolvimento de Sistemas e técnica em Informática pelo IFMA, com interesse em desenvolvimento de soluções digitais e desenvolvimento Front-End.
-
 ---
 
 ## Telas Desenvolvidas
